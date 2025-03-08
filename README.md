@@ -2,7 +2,7 @@
 
 This is a simple React application developed for practice. The app allows users to generate a random number between two inputted values. The generated numbers are displayed in a list on the page.
 
-![image](https://github.com/user-attachments/assets/5489126c-0bb4-4e6b-a52b-57a0132cf722)
+![image](https://github.com/user-attachments/assets/0086ce2d-bf17-410a-a217-0779c4cbb187)
 
 ## Features
 - Users input a minimum and maximum value.
