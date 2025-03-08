@@ -30,7 +30,7 @@ This is a simple React application developed for practice. The app allows users 
 ## Usage
 1. Enter a minimum and maximum value in the input fields.
 2. Click the "Generate" button to create a random number.
-3. The generated number will appear in the list below.
+3. The generated number will appear in the list on right in the screen.
 
 ## Technologies Used
 - React.js
